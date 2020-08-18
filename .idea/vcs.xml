@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/GA Projects/project1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/class-summary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/command-line-murder-mystery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/css-airbnb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/fetch-reddit-slideshow-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/functions-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/tic-tac-toe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-2-Deliverables/GetSome" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deliverables/Unit-2-Deliverables/node_modules_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/JS-Callbacks---Timing---iterators" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/arrays-objects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/codealongs/canvas-crawler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/codealongs/fetch-fetch-fetch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/codealongs/html-forms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/codealongs/js-review" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/codealongs/oop-promises-async-await" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/js-clock-intervals-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/js-object-challenges" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/muscle-memory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/project_assessments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit1/temperature-converter-dom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit2/my-first-node-proj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/Unit2/sql-carmen-san-diego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/templates/SuperSkierBro" vcs="Git" />
+  </component>
+</project>

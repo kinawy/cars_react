@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a12b906d-8018-47a6-9627-326be34ed834" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/fetch-reddit-slideshow-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/fetch-reddit-slideshow-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/fetch-reddit-slideshow-1/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/fetch-reddit-slideshow-1/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/functions-lab/starter_code/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/functions-lab/starter_code/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/filter1.js" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/filter1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/filter2.js" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/filter2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/foreach2.js" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/foreach2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/map2.js" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/map2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/js-callbacks-iterators/reduce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/tic-tac-toe/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables/Unit-1-Deliverables/tic-tac-toe/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/class-summary/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables/summary/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/codealongs/canvas-crawler/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/codealongs/canvas-crawler/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/codealongs/canvas-crawler/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/codealongs/canvas-crawler/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/codealongs/js-review/problems.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/codealongs/js-review/problems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/codealongs/oop-promises-async-await/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/codealongs/oop-promises-async-await/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/muscle-memory/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/muscle-memory/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/muscle-memory/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/muscle-memory/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/muscle-memory/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/muscle-memory/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/project_assessments/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/project_assessments/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit1/temperature-converter-dom/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit1/temperature-converter-dom/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit2/my-first-node-proj/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit2/my-first-node-proj/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit2/my-first-node-proj/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit2/my-first-node-proj/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Unit2/my-first-node-proj/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Unit2/my-first-node-proj/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/codealongs/advanced-css/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/codealongs/advanced-css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/codealongs/advanced-css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/Artorius.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/Artorius2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/ArtoriusCon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/ArtoriusSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/GameBack.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/Pontiff.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/PraiseIt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/Solaire.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/images/Solaire2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/js/app.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="256b63b1-101b-4cc5-84cf-ff228bc502fe" />
+  <component name="ProjectId" id="1fgbGDDVvZNBpaGClZhyLPt6uet" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a12b906d-8018-47a6-9627-326be34ed834" name="Default Changelist" comment="" />
+      <created>1596642594275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596642594275</updated>
+      <workItem from="1596642595779" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
